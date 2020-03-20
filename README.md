@@ -1,0 +1,2 @@
+# pluginhosting
+OPRS plugins
